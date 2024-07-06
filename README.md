@@ -21,3 +21,9 @@ Time-series models can be used to forecast future air quality levels. This proje
 
 This project aims to leverage these models to analyze historical air quality data and potentially develop forecasts for future air quality in Gurugram.
 
+**DataSet Details:**
+Kaggle : Gurugram's Air Quality Index Time-Series Dataset
+https://www.kaggle.com/datasets/pranaii/test-aqi/data
+
+
+
