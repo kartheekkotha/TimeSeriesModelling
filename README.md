@@ -20,7 +20,7 @@ Time-series models can be used to forecast future air quality levels. This proje
 
 This project aims to leverage these models to analyze historical air quality data and potentially develop forecasts for future air quality in Gurugram.
 
-To understand about different models for time series modelling [Time series models](Notes\Models.md)
+To understand about different models for time series modelling [Time series models](Notes/Models.md)
 The Data Analysis on this dataset :- [Exploratory Data Analysis](ExploratoryDataAnalysis.ipynb)
 The training of different models on this dataset :- [Model Training](Modelling.ipynb)
 
