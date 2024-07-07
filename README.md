@@ -16,10 +16,13 @@ Time-series models can be used to forecast future air quality levels. This proje
 
 * **Moving Averages:** Averages over a defined window to smooth short-term fluctuations.
 * **ARIMA (Autoregressive Integrated Moving Average):** A statistical model that leverages past values and errors to predict future air quality.
-* **Exponential Smoothing:** Assigns weights to past observations, placing more emphasis on recent data.
 * **LSTMs (Long Short-Term Memory):** A powerful machine learning approach for complex time-series data, potentially enabling more accurate air quality predictions.
 
 This project aims to leverage these models to analyze historical air quality data and potentially develop forecasts for future air quality in Gurugram.
+
+To understand about different models for time series modelling [Time series models](Notes\Models.md)
+The Data Analysis on this dataset :- [Exploratory Data Analysis](ExploratoryDataAnalysis.ipynb)
+The training of different models on this dataset :- [Model Training](Modelling.ipynb)
 
 ## DataSet Details:
 
